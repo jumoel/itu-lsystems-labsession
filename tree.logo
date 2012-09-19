@@ -1,0 +1,6480 @@
+ClearScreen
+HideTurtle
+Make "positions []
+Make "headings []
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Right 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Left 30
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+Forward 5
+Make "headings FirstPut Heading :headings
+Make "positions FirstPut Position :positions
+Forward 5
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
+SetHeading First :headings
+Make "headings ButFirst :headings
+SetPosition First :positions
+Make "positions ButFirst :positions
