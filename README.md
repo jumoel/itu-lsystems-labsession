@@ -36,4 +36,11 @@ ACSLogo can't really handle the programs as they get quite large.
 ## Examples
 
 ![](https://raw.github.com/jmoeller/itu-lsystems-labsession/master/tree.png)
+
+**Plant-like structure**. Grammar: `F => F[-F]F[+F]F[F]`. Axiom: `F`. Angle: 30. Iterations: 4.
+
+---
+
 ![](https://raw.github.com/jmoeller/itu-lsystems-labsession/master/koch.png)
+
+**Quadratic Koch Island**. Grammar: `F => F-F+F+FF-F-F+F`. Axiom: `F+F+F+F`. Angle: 90. Iterations: 3.
