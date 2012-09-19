@@ -34,3 +34,6 @@ ACSLogo can't really handle the programs as they get quite large.
 
 
 ## Examples
+
+![](https://raw.github.com/jmoeller/itu-lsystems-labsession/master/tree.png)
+![](https://raw.github.com/jmoeller/itu-lsystems-labsession/master/koch.png)
